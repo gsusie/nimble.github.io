@@ -9,15 +9,10 @@ hs_err_pid*
 # Folders
 _obj
 _test
+.idea
 *.exe
 *.test
 *.prof
 
 # Intellij
 
-/.idea/
-/.idea/vcs.xml
-/.idea/modules.xml
-/.idea/webResources.xml
-/.idea/nimble.github.io.iml
-/.idea/workspace.xml
