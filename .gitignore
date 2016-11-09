@@ -1,18 +1,2 @@
 # Created by .ignore support plugin (hsz.mobi)
-hs_err_pid*
-### Go template
-# Compiled Object files, Static and Dynamic libs (Shared Objects)
-*.o
-*.a
-*.so
-
-# Folders
-_obj
-_test
-.idea
-*.exe
-*.test
-*.prof
-
-# Intellij
-
+/.idea/

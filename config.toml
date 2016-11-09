@@ -1,10 +1,7 @@
-baseurl = "http://nimble.github.io"
-title = "Nimble Blog"
-languageCode = "en-us"
-contentdir = "content"
+contentdir =  "content"
 layoutdir = "layouts"
 publishdir = "public"
-builddrafts = false
+baseurl = "http://nimble.github.io"
+title = "A Nimble Blog"
 canonifyurls = true
-themesdir = "themes"
-theme = "hugo-theme-bootstrap4-blog"
+theme = "hugo-bootstrap4-blog"
