@@ -1,7 +1,0 @@
-contentdir =  "content"
-layoutdir = "layouts"
-publishdir = "public"
-baseurl = "http://nimble.github.io"
-title = "A Nimble Blog"
-canonifyurls = true
-theme = "hugo-bootstrap4-blog"
